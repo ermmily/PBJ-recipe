@@ -1,0 +1,35 @@
+h1 {
+  font-family: cursive;
+  color: rgb(73, 49, 97);
+}
+html {
+  background-color: rgb(162, 167, 121);
+}
+h2 {
+  color: rgb(73, 49, 97);
+}
+
+body {
+  background-color: rgb(179, 155, 125);
+  font-family: monospace;
+  text-align: center;
+  border: 10px solid rgb(141, 113, 87);
+  width: 500px;
+  font-size: 15px;
+  margin: 50px auto;
+  padding: 50px;
+  border-radius: 20px;
+}
+
+a {
+  color: rgb(138, 97, 64);
+  text-decoration: none;
+}
+a:hover {
+  background-color: rgb(196, 168, 148);
+  text-decoration: underline;
+}
+
+li:hover {
+  text-decoration: underline;
+}
